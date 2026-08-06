@@ -19,3 +19,4 @@ print("Welcome to the git & github tutorial)
 #day6
 #day7
 >>>>>>> 3b5b7aa (day2)
+# completed
